@@ -4,5 +4,4 @@ import pandas as np
 a = np.array([])
 b = np.array([])
 
-c = np.array([])
-d = np.array([])
+e = np.array([])
