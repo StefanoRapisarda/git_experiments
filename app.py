@@ -1,8 +1,10 @@
 import numpy as np
+import pandas as pd
 
-a = np.array([])
-b = np.array([])
+f = np.array([])
 
 c = np.array([])
 e = np.array([])
+
+
 
